@@ -5,11 +5,8 @@ Este repositório contém dashboards desenvolvidos em **Power BI** para análise
 ## Índice
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Repositório](#estrutura-do-repositório)
 - [Como Usar](#como-usar)
 - [Exemplos de Dashboards](#exemplos-de-dashboards)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Tecnologias Utilizadas
 
